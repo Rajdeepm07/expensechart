@@ -29,6 +29,8 @@ The goal is to help beginners understand how to store, retrieve, and manage stru
 
 ## 🚀 Deployed Smart Contract Link  
 **Contract Address:** `https://coston2-explorer.flare.network//tx/0x5eb1defc43f21cb4196f28990424f32861f0369f2d66a332bfc31dd60dce71e6`
+<img width="957" height="820" alt="image" src="https://github.com/user-attachments/assets/e172c2ac-0079-47b4-b602-bd531963b0ee" />
+
 
 (Replace with your real deployment once you push it live.)
 
